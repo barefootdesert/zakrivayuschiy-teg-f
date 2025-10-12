@@ -3,10 +3,11 @@
   --card-inline-size: clamp(375px, 260.56px + 30.52vw, 700px);
 
   /* fonts */
-  --main-font: "Inter", sans-serif;
+  --main-font: "Inter-Variable", sans-serif;
   --accent-font: "PressStart2P", "Fantasy", monospace;
   --main-font-size: 18px;
   --main-font-weight: 400;
+  --title-font-weight: 700;
 
   /* colors */
   --background-color: #fff;
