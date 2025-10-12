@@ -238,7 +238,7 @@
 /* floppy */
 .floppy {
   fill: currentColor;
-  color: #fff;
+  color: #000;
   mix-blend-mode: difference;
   padding-inline-end: 7px;
   z-index: 2;
