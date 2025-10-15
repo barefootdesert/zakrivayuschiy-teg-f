@@ -235,13 +235,14 @@
   margin-block-start: 25px;
 }
 
-/* floppy */
 .floppy {
   fill: currentColor;
-  color: #000;
+  color: #fff;
   mix-blend-mode: difference;
   padding-inline-end: 7px;
   z-index: 2;
+  width: 28;
+  height: 28;
 }
 
 .dialog-floppy {

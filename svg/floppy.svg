@@ -1,85 +1,9 @@
-<svg width="29" height="28" viewBox="0 0 29 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-<symbol id="floppy" viewBox="0 0 29 28">
-<rect x="0.5" width="2.15385" height="2.15385"/>
-<rect x="0.5" y="2.1543" width="2.15385" height="2.15385"/>
-<rect x="0.5" y="4.30762" width="2.15385" height="2.15385"/>
-<rect x="0.5" y="6.46191" width="2.15385" height="2.15385"/>
-<rect x="0.5" y="8.61523" width="2.15385" height="2.15385"/>
-<rect x="0.5" y="10.7695" width="2.15385" height="2.15385"/>
-<rect x="0.5" y="12.9229" width="2.15385" height="2.15385"/>
-<rect x="0.5" y="15.0771" width="2.15385" height="2.15385"/>
-<rect x="0.5" y="17.2305" width="2.15385" height="2.15385"/>
-<rect x="0.5" y="19.3848" width="2.15385" height="2.15385"/>
-<rect x="0.5" y="21.5381" width="2.15385" height="2.15385"/>
-<rect x="0.5" y="23.6924" width="2.15385" height="2.15385"/>
-<rect x="0.5" y="25.8457" width="2.15385" height="2.15385"/>
-<rect x="24.1927" width="2.15385" height="2.15385" transform="rotate(90 24.1927 0)"/>
-<rect x="22.0391" width="2.15385" height="2.15385" transform="rotate(90 22.0391 0)"/>
-<rect x="19.8841" width="2.15385" height="2.15385" transform="rotate(90 19.8841 0)"/>
-<rect x="17.7305" width="2.15385" height="2.15385" transform="rotate(90 17.7305 0)"/>
-<rect x="15.5768" width="2.15385" height="2.15385" transform="rotate(90 15.5768 0)"/>
-<rect x="13.4232" width="2.15385" height="2.15385" transform="rotate(90 13.4232 0)"/>
-<rect x="11.2695" width="2.15385" height="2.15385" transform="rotate(90 11.2695 0)"/>
-<rect x="9.11589" width="2.15385" height="2.15385" transform="rotate(90 9.11589 0)"/>
-<rect x="6.96094" width="2.15385" height="2.15385" transform="rotate(90 6.96094 0)"/>
-<rect x="4.8073" width="2.15385" height="2.15385" transform="rotate(90 4.8073 0)"/>
-<rect x="26.3464" y="2.1543" width="2.15385" height="2.15385" transform="rotate(90 26.3464 2.1543)"/>
-<rect x="6.96094" y="4.30762" width="2.15385" height="2.15385" transform="rotate(90 6.96094 4.30762)"/>
-<rect x="6.96094" y="2.1543" width="2.15385" height="2.15385" transform="rotate(90 6.96094 2.1543)"/>
-<rect x="6.96094" y="6.46191" width="2.15385" height="2.15385" transform="rotate(90 6.96094 6.46191)"/>
-<rect x="22.0391" y="4.30762" width="2.15385" height="2.15385" transform="rotate(90 22.0391 4.30762)"/>
-<rect x="22.0391" y="2.1543" width="2.15385" height="2.15385" transform="rotate(90 22.0391 2.1543)"/>
-<rect x="22.0391" y="6.46191" width="2.15385" height="2.15385" transform="rotate(90 22.0391 6.46191)"/>
-<rect x="17.7305" y="4.30762" width="2.15385" height="2.15385" transform="rotate(90 17.7305 4.30762)"/>
-<rect x="17.7305" y="2.1543" width="2.15385" height="2.15385" transform="rotate(90 17.7305 2.1543)"/>
-<rect x="17.7305" y="6.46191" width="2.15385" height="2.15385" transform="rotate(90 17.7305 6.46191)"/>
-<rect x="22.0391" y="8.61523" width="2.15385" height="2.15385" transform="rotate(90 22.0391 8.61523)"/>
-<rect x="19.8841" y="8.61523" width="2.15385" height="2.15385" transform="rotate(90 19.8841 8.61523)"/>
-<rect x="17.7305" y="8.61523" width="2.15385" height="2.15385" transform="rotate(90 17.7305 8.61523)"/>
-<rect x="15.5768" y="8.61523" width="2.15385" height="2.15385" transform="rotate(90 15.5768 8.61523)"/>
-<rect x="13.4232" y="8.61523" width="2.15385" height="2.15385" transform="rotate(90 13.4232 8.61523)"/>
-<rect x="11.2695" y="8.61523" width="2.15385" height="2.15385" transform="rotate(90 11.2695 8.61523)"/>
-<rect x="9.11589" y="8.61523" width="2.15385" height="2.15385" transform="rotate(90 9.11589 8.61523)"/>
-<rect x="6.96094" y="8.61523" width="2.15385" height="2.15385" transform="rotate(90 6.96094 8.61523)"/>
-<rect x="24.1927" y="15.0771" width="2.15385" height="2.15385" transform="rotate(90 24.1927 15.0771)"/>
-<rect x="22.0391" y="15.0771" width="2.15385" height="2.15385" transform="rotate(90 22.0391 15.0771)"/>
-<rect x="19.8841" y="15.0771" width="2.15385" height="2.15385" transform="rotate(90 19.8841 15.0771)"/>
-<rect x="17.7305" y="15.0771" width="2.15385" height="2.15385" transform="rotate(90 17.7305 15.0771)"/>
-<rect x="15.5768" y="15.0771" width="2.15385" height="2.15385" transform="rotate(90 15.5768 15.0771)"/>
-<rect x="13.4232" y="15.0771" width="2.15385" height="2.15385" transform="rotate(90 13.4232 15.0771)"/>
-<rect x="11.2695" y="15.0771" width="2.15385" height="2.15385" transform="rotate(90 11.2695 15.0771)"/>
-<rect x="9.11589" y="15.0771" width="2.15385" height="2.15385" transform="rotate(90 9.11589 15.0771)"/>
-<rect x="6.96094" y="15.0771" width="2.15385" height="2.15385" transform="rotate(90 6.96094 15.0771)"/>
-<rect x="24.1927" y="17.2305" width="2.15385" height="2.15385" transform="rotate(90 24.1927 17.2305)"/>
-<rect x="6.96094" y="17.2305" width="2.15385" height="2.15385" transform="rotate(90 6.96094 17.2305)"/>
-<rect x="24.1927" y="19.3848" width="2.15385" height="2.15385" transform="rotate(90 24.1927 19.3848)"/>
-<rect x="6.96094" y="19.3848" width="2.15385" height="2.15385" transform="rotate(90 6.96094 19.3848)"/>
-<rect x="24.1927" y="21.5381" width="2.15385" height="2.15385" transform="rotate(90 24.1927 21.5381)"/>
-<rect x="6.96094" y="21.5381" width="2.15385" height="2.15385" transform="rotate(90 6.96094 21.5381)"/>
-<rect x="6.96094" y="23.6924" width="2.15385" height="2.15385" transform="rotate(90 6.96094 23.6924)"/>
-<rect x="24.1927" y="23.6924" width="2.15385" height="2.15385" transform="rotate(90 24.1927 23.6924)"/>
-<rect x="26.3464" y="25.8457" width="2.15385" height="2.15385" transform="rotate(90 26.3464 25.8457)"/>
-<rect x="24.1927" y="25.8457" width="2.15385" height="2.15385" transform="rotate(90 24.1927 25.8457)"/>
-<rect x="22.0391" y="25.8457" width="2.15385" height="2.15385" transform="rotate(90 22.0391 25.8457)"/>
-<rect x="19.8841" y="25.8457" width="2.15385" height="2.15385" transform="rotate(90 19.8841 25.8457)"/>
-<rect x="17.7305" y="25.8457" width="2.15385" height="2.15385" transform="rotate(90 17.7305 25.8457)"/>
-<rect x="15.5768" y="25.8457" width="2.15385" height="2.15385" transform="rotate(90 15.5768 25.8457)"/>
-<rect x="13.4232" y="25.8457" width="2.15385" height="2.15385" transform="rotate(90 13.4232 25.8457)"/>
-<rect x="11.2695" y="25.8457" width="2.15385" height="2.15385" transform="rotate(90 11.2695 25.8457)"/>
-<rect x="9.11589" y="25.8457" width="2.15385" height="2.15385" transform="rotate(90 9.11589 25.8457)"/>
-<rect x="6.96094" y="25.8457" width="2.15385" height="2.15385" transform="rotate(90 6.96094 25.8457)"/>
-<rect x="4.8073" y="25.8457" width="2.15385" height="2.15385" transform="rotate(90 4.8073 25.8457)"/>
-<rect x="28.5" y="28" width="2.15385" height="2.15385" transform="rotate(-180 28.5 28)"/>
-<rect x="28.5" y="25.8457" width="2.15385" height="2.15385" transform="rotate(-180 28.5 25.8457)"/>
-<rect x="28.5" y="23.6924" width="2.15385" height="2.15385" transform="rotate(-180 28.5 23.6924)"/>
-<rect x="28.5" y="21.5381" width="2.15385" height="2.15385" transform="rotate(-180 28.5 21.5381)"/>
-<rect x="28.5" y="19.3848" width="2.15385" height="2.15385" transform="rotate(-180 28.5 19.3848)"/>
-<rect x="28.5" y="17.2305" width="2.15385" height="2.15385" transform="rotate(-180 28.5 17.2305)"/>
-<rect x="28.5" y="15.0771" width="2.15385" height="2.15385" transform="rotate(-180 28.5 15.0771)"/>
-<rect x="28.5" y="12.9229" width="2.15385" height="2.15385" transform="rotate(-180 28.5 12.9229)"/>
-<rect x="28.5" y="10.7695" width="2.15385" height="2.15385" transform="rotate(-180 28.5 10.7695)"/>
-<rect x="28.5" y="8.61523" width="2.15385" height="2.15385" transform="rotate(-180 28.5 8.61523)"/>
-<rect x="28.5" y="6.46191" width="2.15385" height="2.15385" transform="rotate(-180 28.5 6.46191)"/>
-</symbol>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="21" fill="none">
+  <symbol id="floppy" viewBox="0 0 40 40">
+    <path fill="currentColor" d="M.5 0h1.615v1.615H.5zM.5 1.615h1.615V3.23H.5zM.5 3.23h1.615v1.615H.5zM.5 4.846h1.615v1.615H.5zM.5 6.462h1.615v1.615H.5zM.5 8.077h1.615v1.615H.5zM.5 9.692h1.615v1.615H.5zM.5 11.308h1.615v1.615H.5zM.5 12.923h1.615v1.615H.5zM.5 14.538h1.615v1.615H.5zM.5 16.154h1.615v1.615H.5zM.5 17.77h1.615v1.615H.5zM.5 19.385h1.615V21H.5zM18.27 0v1.615h-1.616V0zM16.654 0v1.615h-1.615V0zM15.039 0v1.615h-1.615V0zM13.423 0v1.615h-1.615V0zM11.808 0v1.615h-1.615V0zM10.192 0v1.615H8.577V0zM8.577 0v1.615H6.962V0zM6.962 0v1.615H5.347V0zM5.346 0v1.615H3.731V0zM3.73 0v1.615H2.117V0zM19.885 1.616V3.23H18.27V1.616zM5.347 3.23v1.615H3.732V3.23zM5.346 1.615V3.23H3.731V1.615zM5.346 4.846V6.46H3.73V4.846zM16.654 3.23v1.616H15.04V3.23zM16.654 1.615V3.23h-1.615V1.615zM16.653 4.846V6.46H15.04V4.846zM13.424 3.23v1.615h-1.615V3.23zM13.423 1.615V3.23h-1.615V1.615zM13.423 4.846V6.46h-1.615V4.846zM16.654 6.462v1.615h-1.615V6.462zM15.038 6.462v1.615h-1.615V6.462zM13.423 6.462v1.615h-1.615V6.462zM11.808 6.462v1.615h-1.615V6.462zM10.192 6.462v1.615H8.577V6.462zM8.577 6.462v1.615H6.962V6.462zM6.961 6.462v1.615H5.346V6.462zM5.346 6.462v1.615H3.731V6.462zM18.269 11.307v1.615h-1.615v-1.615zM16.653 11.308v1.615h-1.615v-1.615z"/>
+    <path fill="currentColor" d="M15.038 11.308v1.615h-1.615v-1.615zM13.423 11.307v1.615h-1.615v-1.615zM11.807 11.308v1.615h-1.615v-1.615zM10.192 11.307v1.615H8.577v-1.615zM8.576 11.308v1.615H6.961v-1.615zM6.961 11.308v1.615H5.346v-1.615zM5.346 11.307v1.615H3.73v-1.615zM18.27 12.923v1.615h-1.616v-1.615zM5.346 12.923v1.615H3.731v-1.615z"/>
+    <path fill="currentColor" d="M18.27 14.538v1.615h-1.616v-1.615zM5.346 14.538v1.615H3.731v-1.615zM18.27 16.154v1.615h-1.615v-1.615zM5.346 16.154v1.615H3.731v-1.615zM5.346 17.77v1.614H3.73V17.77zM18.269 17.77v1.614h-1.615V17.77zM19.884 19.385V21H18.27v-1.615zM18.27 19.384V21h-1.616v-1.615zM16.654 19.385V21h-1.615v-1.615zM15.038 19.385V21h-1.615v-1.615zM13.423 19.385V21h-1.615v-1.615zM11.807 19.385V21h-1.615v-1.615zM10.192 19.384V21H8.577v-1.615zM8.577 19.385V21H6.962v-1.615zM6.961 19.385V21H5.346v-1.615zM5.346 19.385V21H3.731v-1.615zM3.73 19.385V21H2.117v-1.615zM21.5 21h-1.615v-1.615H21.5zM21.5 19.385h-1.615V17.77H21.5zM21.5 17.769h-1.615v-1.615H21.5z"/>
+    <path fill="currentColor" d="M21.5 16.155h-1.615V14.54H21.5zM21.5 14.538h-1.615v-1.615H21.5zM21.5 12.923h-1.615v-1.615H21.5zM21.5 11.307h-1.615V9.692H21.5z"/>
+    <path fill="currentColor" d="M21.5 9.693h-1.615V8.078H21.5zM21.5 8.077h-1.615V6.462H21.5zM21.5 6.462h-1.615V4.847H21.5zM21.5 4.845h-1.615V3.23H21.5z"/>
+  </symbol>
 </svg>
-
