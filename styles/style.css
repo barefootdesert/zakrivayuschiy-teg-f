@@ -299,6 +299,17 @@ dialog[open] {
   grid-template-rows: 1fr min-content;
 }
 
+.dialog-floppy--bg {
+  width: 56px;
+  height: 56px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-image: url("../svg/floppy.svg");
+  display: inline-block;
+  vertical-align: middle;
+}
+
 /* like */
 .sparks {
   opacity: 0;
