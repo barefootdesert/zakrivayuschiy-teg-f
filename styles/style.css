@@ -177,6 +177,7 @@
   font-weight: var(--main-font-weight);
   font-size: 14px;
   transition: box-shadow 0.3s ease;
+  gap: 8px;
 }
 
 .button:hover {
@@ -239,16 +240,18 @@
   fill: currentColor;
   color: #fff;
   mix-blend-mode: difference;
-  gap: 8px;
   z-index: 2;
-  width: 28;
-  height: 28;
+  width: 21;
+  height: 21
 }
 
 .dialog-floppy {
   display: block;
   margin-block-start: 12px;
-  padding: 0;
+  margin-block-end: 12px;
+  align-items: start;
+  width: 39px;
+  height: 39px;
 }
 
 .button-floppy {
@@ -260,6 +263,7 @@
   border: var(--border);
   margin-block-end: 100px;
 }
+
 
 /* dialog */
 dialog {
@@ -300,12 +304,9 @@ dialog[open] {
 }
 
 .dialog-floppy--bg {
-  width: 39px;
-  height: 39px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  background-image: url("../svg/floppy.svg");
   display: inline-block;
   align-self: center;
 }
