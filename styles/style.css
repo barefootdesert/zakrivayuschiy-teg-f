@@ -259,7 +259,7 @@
   grid-auto-flow: column;
   justify-self: center;
   align-items: center;
-  padding: 15px 17px;
+  padding: 14.5px 18px;
   border: var(--border);
   margin-block-end: 100px;
 }
