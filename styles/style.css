@@ -87,7 +87,7 @@
   padding-inline-end: 26px;
   grid-column: 1 / -1;
   font-size: var(--main-font-size);
-  line-height: 1.5;
+  line-height: 1.2;
 }
 
 /* images */
@@ -178,6 +178,8 @@
   font-size: 14px;
   transition: box-shadow 0.3s ease;
   gap: 8px;
+  width: 325px;
+  height: 55px;
 }
 
 .button:hover {
@@ -220,7 +222,7 @@
   background: none;
   border: none;
   block-size: 39px;
-  margin-inline-end: 6px;
+  margin-inline-end: 2.85px;
   transition: outline 0.3s ease;
 }
 
