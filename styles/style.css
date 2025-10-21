@@ -178,8 +178,6 @@
   font-size: 14px;
   transition: box-shadow 0.3s ease;
   gap: 8px;
-  width: 325px;
-  height: 55px;
 }
 
 .button:hover {
@@ -222,7 +220,7 @@
   background: none;
   border: none;
   block-size: 39px;
-  margin-inline-end: 2.85px;
+  margin-inline-end: 1px;
   transition: outline 0.3s ease;
 }
 
@@ -249,8 +247,8 @@
 
 .dialog-floppy {
   display: block;
-  margin-block-start: 12px;
-  margin-block-end: 12px;
+  margin-block-start: 10px;
+  margin-block-end: 10px;
   align-items: start;
   width: 39px;
   height: 39px;
@@ -261,7 +259,7 @@
   grid-auto-flow: column;
   justify-self: center;
   align-items: center;
-  padding: 12px 20px;
+  padding: 15px 17px;
   border: var(--border);
   margin-block-end: 100px;
 }
@@ -398,12 +396,13 @@ dialog[open] {
     grid-template-rows: 1fr 1fr;
     justify-items: center;
     text-align: center;
-    gap: 0;
-    padding: 17px 20px 10px;
+    max-width: 306px;
+    max-height: 80px;
   }
 
   .floppy {
-    padding: 0;
+    width: 28px;
+    height: 28px;
   }
 
   dialog {
